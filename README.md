@@ -8,7 +8,7 @@ Screenshots:
 ############
 
 Javascript and Ruby:
-![Screenshot ](https://github.com/mswift42/soft-charcoal-syntax/raw/master/atomsoft-charcoal.png)
+![Screenshot ](https://github.com/mswift42/soft-charcoal-syntax/raw/master/atomsoftcharcoaljsruby.png)
 
 Clojure:
 ![Screenshot](https://github.com/mswift42/soft-charcoal-syntax/raw/master/atomsoftcharcoalclojure.png)
