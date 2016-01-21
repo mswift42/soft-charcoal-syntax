@@ -4,8 +4,7 @@ A dark syntax theme with soft, pleasant colors.
 
 Created with [ThemeCreator](https://github.com/mswift42/themecreator)
 
-Screenshots:
-############
+### Screenshots:
 
 Javascript and Ruby:
 ![Screenshot ](https://github.com/mswift42/soft-charcoal-syntax/raw/master/atomsoftcharcoaljsruby.png)
